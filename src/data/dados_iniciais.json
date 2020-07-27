@@ -1,0 +1,145 @@
+{
+  "categorias": [
+    {
+      "titulo": "DJ JV",
+      "link": "",
+      "cor": "#868686",
+      "link_extra": {
+        "text": "Link do canal no youtube",
+        "url": "https://www.youtube.com/channel/UCKDSEht8ODq4829IX-8_-sQ"
+      },
+      "videos": [
+        {
+          "titulo": "BN & VTzin - Mentirosa (Prod. Mayck Beats)",
+          "url": "https://www.youtube.com/watch?v=L71DDYJc_xY"
+        },
+        {
+          "titulo": "10 MINUTOS DAS MAIS TOCADAS NO RJ EM BEAT FINO=(( DJ JV DE SD )) -(ACELERADO)LANÇAMENTO 2K20 #status",
+          "url": "https://www.youtube.com/watch?v=g1YvCB-cVwY"
+        },
+        {
+          "titulo": "TÁ FACIN QUE ME TER vs VAI NO CHÃO DOIDONAAA== ( ( BEAT FINO 2K50 )) - (DJ JV DE SD) #postanostatus",
+          "url": "https://www.youtube.com/watch?v=FckdMVKCHHQ"
+        },
+        {
+          "titulo": "10 MINUTOS DAS MAIS BRABAS DO BEAT JHOW JHOW VS BEAT FINO - ( DJ JV DE SD )-LANÇAMENTO 2K20#status",
+          "url": "https://www.youtube.com/watch?v=eAuBR1urGpU"
+        },
+        {
+          "titulo": "MC KEVIN O CHRIS - HOJE VOCÊ VAI TOMAR SUA LOUCA, A NOITE TODA = (LANÇAMENTO 2K20)",
+          "url": "https://www.youtube.com/watch?v=V22CJlezITY"
+        },
+        {
+          "titulo": "BR DA TIJUCA & DOLLYNHO DA LAPA - TAMBORZON TAMBORZIN",
+          "url": "https://www.youtube.com/watch?v=5ZslXu2tffw"
+        },
+        {
+          "titulo": "SE PREPARA NA RABA TOMA TAPÃO =150 BPM { 2K20 ((RAMEMES)) }- [ DJ JV DE SD ]- #postanostatus",
+          "url": "https://www.youtube.com/watch?v=LVhU4l_Pu7M"
+        },
+        {
+          "titulo": "10 MINUTOS DAS MAIS BRABAS EM BEAT VAPO ALIEN = OS FUNK'S MAIS TOCADO NO RJ = (DJ JV DE SD)#status",
+          "url": "https://www.youtube.com/watch?v=exTqVEOkPpg"
+        }        
+      ]
+    },
+    {
+      "titulo": "YSD BN",
+      "cor": "#47ED9F",
+      "link_extra": {
+        "text": "Link do canal no youtube",
+        "url": "https://www.youtube.com/channel/UC5S5UOGW8TC0yWYrr1oTROQ"
+      },
+      "videos": [
+        {
+          "titulo": "BN - Hype (prod. Dexy Beatz)",
+          "url": "https://www.youtube.com/watch?v=iRaHKn30IEA"
+        },
+        {
+          "titulo": "BN ft.Lil Cain - Dubai (Uai) (prod.Gibbo)",
+          "url": "https://www.youtube.com/watch?v=-lWoMBk68cI"
+        },
+        {
+          "titulo": "BN - Poema para ela (Prod. djnc)",
+          "url": "https://www.youtube.com/watch?v=RN1I9Sz7ftI"
+        },
+        {
+          "titulo": "BN - Não (prod. Pacific)",
+          "url": "https://www.youtube.com/watch?v=hbzq_MAzo9U"
+        }, 
+        {
+          "titulo": "VTzin & BN - Mentirosa Pt.II (Prod. Mayck Beats)",
+          "url": "https://www.youtube.com/watch?v=grbvbzg9kNg"
+        }
+      ]
+    },
+    {
+      "titulo": "Escalibvr",
+      "cor": "#202121",
+      "link_extra": {
+        "text": "Link do canal no youtube",
+        "url": "https://www.youtube.com/channel/UCjzL_tEGWpfLWyQl5XkjmaA"
+      },
+      "videos": [
+        {
+          "titulo": "Excalibvr x Hatake - Scars",
+          "url": "https://www.youtube.com/watch?v=7GKV9Jx5HZs"
+        },
+        {
+          "titulo": "Excalibvr - Frame",
+          "url": "https://www.youtube.com/watch?v=Ayyh9-2JKQE"
+        },
+        {
+          "titulo": "Excalibvr - Respeita a firma",
+          "url": "https://www.youtube.com/watch?v=eq8TDzUIYsw"
+        },
+        {
+          "titulo": "excalibvr x levi - geeky",
+          "url": "https://www.youtube.com/watch?v=Q4NUfDb7nBU"
+        }
+      ]
+    },
+    {
+      "titulo": "Levi",
+      "cor": "#010101",
+      "link_extra": {
+        "text": "Link do canal no youtube",
+        "url": "https://www.youtube.com/channel/UCqO56QbOmUcwDZZTAW978sw/featured"
+      },
+      "videos": [
+        {
+          "titulo": "excalibvr x levi - full yokai",
+          "url": "https://www.youtube.com/watch?v=Pl38mWlZisk"
+        },
+        {
+          "titulo": "levi x excalibvr - woodstock",
+          "url": "https://www.youtube.com/watch?v=muG16m5s6WI"
+        },
+        {
+          "titulo": "levi - cítrico",
+          "url": "https://www.youtube.com/watch?v=A8pKkmwd35c"
+        },
+        {
+          "titulo": "levi - dançalenta.mp3",
+          "url": "https://www.youtube.com/watch?v=2mnVVhrwjfw"
+        }
+      ]
+    },
+    
+    
+    {
+      "titulo": "MagraosShowz",
+      "cor": "#ede76f",
+      "link": "https://www.twitch.tv/magraoshowz",
+      "text": "Link do canal na twitch"
+    },
+
+    {
+      "titulo": "StormDesing",
+      "cor": "#ff5145",
+      "link": "https://www.instagram.com/stormdesignbr/?hl=pt-br",
+      "text": "Link do Instagram com suas artes"
+    }
+    
+  ]
+}
