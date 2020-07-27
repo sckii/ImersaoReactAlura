@@ -34,13 +34,8 @@ function App() {
         category={dadosIniciais.categorias[3]}
       />                
 
-      <Names 
-        names={dadosIniciais.categorias[4]}
-      />
-
-      <Names 
-        names={dadosIniciais.categorias[5]}
-      />
+      
+      
       
       <Footer />
     </div>
