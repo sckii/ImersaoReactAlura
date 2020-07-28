@@ -16,12 +16,11 @@ function VideoCardGroup({
         <>
           <Title style={{ backgroundColor: categoryColor || 'red' }}>
             {categoryTitle}
-          </Title>
-          {categoryExtraLink && 
             <ExtraLink href={categoryExtraLink.url} target="_blank">
-              {categoryExtraLink.text}  
+              <i class="fab fa-youtube"></i> 
             </ExtraLink>
-          }
+          </Title>
+          
         </>
       )}
       <VideoCardList>

@@ -5,7 +5,7 @@
 @media (max-width: 800px) {
 .Logo {
     margin-top: 5px;
-    max-width: 105px;
+    max-width: 85px;
 }
 }
 .Menu {
@@ -23,7 +23,17 @@ padding-left: 5%;
 padding-right: 5%;
 background: var(--black);
 border-bottom: 2px solid var(--primary);
+animation-name: border;
+animation-duration: 9s;
+animation-iteration-count: infinite;
 }
+@keyframes border {
+    0% { border-color: #2A7AE4 }
+    25% { border-color: red }
+    50% { border-color: #ffee00 }
+    75% { border-color: red}
+    100% { border-color: #2A7AE4 }
+}   
 body {
 --bodyPaddingTop: 94px;
 padding-top: var(--bodyPaddingTop);

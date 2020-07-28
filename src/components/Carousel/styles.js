@@ -3,18 +3,20 @@ import styled from 'styled-components';
 export const Title = styled.h3`
   font-style: normal;
   font-weight: normal;
-  font-size: 35px;
+  text-align: center;
+  font-size: 25px;
   line-height: 1;
   margin-bottom: 16px;
   display: inline-block;
-  padding: 20px;
+  padding: 10px 20px;
   background: red;
   line-height: 1;
   border-radius: 4px;
 
   @media (max-width: 800px) {
+    i { font-size: 50px; padding: 10px 5px}
     font-size: 18px;
-    padding: 10px;
+    padding: 10px 10px;
   }
 `;
 
