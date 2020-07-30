@@ -32,19 +32,21 @@ function CadastroCategoria() {
   // ============
 
   useEffect(() => {
-    
-      const URL = 'https://sdhits.herokuapp.com/categorias'; 
+    if(window.location.href.includes('localhost')) {
+      const URL = 'http://localhost:8080/categorias'; 
       fetch(URL)
        .then(async (respostaDoServer) =>{
-        
+        if(respostaDoServer.ok) {
           const resposta = await respostaDoServer.json();
           setCategorias([
             ...resposta,
         ]);
-           
-        })
-       
-  });
+          return; 
+        }
+        
+       })
+    }    
+  }, []);
 
   return (
     <PageDefault>
@@ -90,7 +92,7 @@ function CadastroCategoria() {
         </Button>
       </form>
       
-
+      <br />
       <ul>
         {categorias.map((categoria, indice) => {
           return (
@@ -100,7 +102,7 @@ function CadastroCategoria() {
           )
         })}
       </ul>
-
+        <br/>
       <Link to="/">
         Ir para home
       </Link>
